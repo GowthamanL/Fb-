@@ -6,3 +6,7 @@ Fb:
 
 3.press ENTER key
 
+4.click signup button
+
+
+
