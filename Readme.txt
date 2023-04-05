@@ -8,5 +8,7 @@ Fb:
 
 4.click signup button
 
+5.Enter details and submit
+
 
 
