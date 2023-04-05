@@ -10,5 +10,7 @@ Fb:
 
 5.Enter details and submit
 
+6.Upload Profile Picture
+
 
 
